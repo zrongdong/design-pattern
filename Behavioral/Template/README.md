@@ -1,4 +1,4 @@
-# 模板模式
+# 模板方法模式
 
 Template Method Design Pattern
 

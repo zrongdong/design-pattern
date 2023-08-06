@@ -5,7 +5,9 @@
 [Design Patterns](https://sourcemaking.com/design_patterns)
 
 ## 设计原则
+
 (solid)
+
 - 单一职责原则
 - 开闭原则
 - 里式替换原则
@@ -33,11 +35,11 @@
     - [x] [享元模式(Flyweight)](./Structural/Flyweight)
 - 行为型(Behavioral)
     - [x] [观察者模式(Observer)](./Behavioral/Observer)
-    - [x] [模板模式(Template)](./Behavioral/Template)
+    - [x] [模板方法模式(Template)](./Behavioral/Template)
     - [x] [策略模式(Strategy)](./Behavioral/Strategy)
     - [x] [职责链模式(Chain of Responsibility)](./Behavioral/ChainOfResponsibility)
     - [x] [迭代器模式(Iterator)](./Behavioral/Iterator)
-    - [ ] 状态模式(State)
+    - [x] [状态模式(State)](./Behavioral/State)
     - [ ] 访问者模式(Visitor)
     - [ ] 备忘录模式(Memento)
     - [ ] 命名模式(Command)
